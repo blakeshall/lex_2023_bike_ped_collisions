@@ -1,0 +1,2 @@
+IncidentId,PersonNo,PropertyDamageNo,PropDamageType,DamageDescription,
+31811020,1,1,PRIVATE PROPERTY,NAKTO ELECTRIC BICYCLE,
